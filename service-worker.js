@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c13164cd4075ed6bca840603dcba43e6"
+    "revision": "6d02348fa2c68432b0dd5241f0d81fd4"
   },
   {
     "url": "accumulate/index.html",
-    "revision": "46be5d386b8dcca21a96bfd4570740c8"
+    "revision": "c8d2e532973e73d620816ba88905d303"
   },
   {
     "url": "algorithm/index.html",
-    "revision": "f583a2f250e578213578d59f39c92d8b"
+    "revision": "7e10f64ed336ebb25a011793ff46a4fa"
   },
   {
     "url": "assets/css/0.styles.bc4f777c.css",
@@ -110,20 +110,20 @@ self.__precacheManifest = [
     "revision": "fd11b37225006ba567e790fdfd38ea04"
   },
   {
-    "url": "assets/js/app.c9a26764.js",
-    "revision": "4a10897196364dc6c77a69c325b74cce"
+    "url": "assets/js/app.a8fc46fe.js",
+    "revision": "491025cf0845f3195b0b178536d76f95"
   },
   {
     "url": "example.html",
-    "revision": "46920365c5147d080acb0d09373ae61d"
+    "revision": "db1e985de56ca27be28c3443f5b150a4"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "186bf05009e3f5c0dd1a142a4625f4b1"
+    "revision": "43c85db84f70eb3cb7e6c978b5760686"
   },
   {
     "url": "guide.html",
-    "revision": "08daf1cf77a62d932f7ca1cb1e75b69b"
+    "revision": "7dd366276152bc1619406327c39c4933"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -195,23 +195,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b75e1e174d2100ef448c837879abb22d"
+    "revision": "9408f2f2119325d1cb4befa400a1af91"
   },
   {
     "url": "organize/index.html",
-    "revision": "4c87e91e1e490606f7f2ceaef8b3a9c6"
+    "revision": "29fba4a09c54c7b5f954d93372da5316"
   },
   {
     "url": "others/index.html",
-    "revision": "7978dda64b0420be13c3a70c039a52bf"
+    "revision": "c156ad1e37576a9bc9472b38e7f100fb"
   },
   {
     "url": "playerin/index.html",
-    "revision": "dcaf57ba560945adcb521c1a25dcc814"
+    "revision": "df660c777d6800b4e08a577d7f788376"
   },
   {
     "url": "start.html",
-    "revision": "eade8b5f5196bcc7c45d426c780a094f"
+    "revision": "3bbcda25061ee2bf397a2b3d39d45179"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
