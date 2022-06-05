@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "6d02348fa2c68432b0dd5241f0d81fd4"
+    "revision": "88cf3b63c2dd59d2fd403cf1f8eb6e84"
   },
   {
     "url": "accumulate/index.html",
-    "revision": "c8d2e532973e73d620816ba88905d303"
+    "revision": "b38b43cada3dc951a107611388e6caaa"
   },
   {
     "url": "algorithm/index.html",
-    "revision": "7e10f64ed336ebb25a011793ff46a4fa"
+    "revision": "7c9c410721947e1eabaa63d539f8218c"
   },
   {
     "url": "assets/css/0.styles.bc4f777c.css",
@@ -98,8 +98,8 @@ self.__precacheManifest = [
     "revision": "0a2abb8368f2a705a28f0b35b4dbb528"
   },
   {
-    "url": "assets/js/7.f641ba65.js",
-    "revision": "900b52c2daa5c0cd159701b51e277c8a"
+    "url": "assets/js/7.83f42b3c.js",
+    "revision": "8e8302321887c6f00aecfde32bb46601"
   },
   {
     "url": "assets/js/8.53518492.js",
@@ -110,20 +110,20 @@ self.__precacheManifest = [
     "revision": "fd11b37225006ba567e790fdfd38ea04"
   },
   {
-    "url": "assets/js/app.a8fc46fe.js",
-    "revision": "491025cf0845f3195b0b178536d76f95"
+    "url": "assets/js/app.006bb2ed.js",
+    "revision": "d077ee429d852366483dc86d59dfe680"
   },
   {
     "url": "example.html",
-    "revision": "db1e985de56ca27be28c3443f5b150a4"
+    "revision": "fc4aac4ff224c705b24bae39d90136d2"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "43c85db84f70eb3cb7e6c978b5760686"
+    "revision": "0b5c530be30f525353cc9d7b34539d52"
   },
   {
     "url": "guide.html",
-    "revision": "7dd366276152bc1619406327c39c4933"
+    "revision": "22ddc0b8cf2f0e9516c16b657eb8e748"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -195,23 +195,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "9408f2f2119325d1cb4befa400a1af91"
+    "revision": "930881f24c2c742b9578b42a2ee156f5"
   },
   {
     "url": "organize/index.html",
-    "revision": "29fba4a09c54c7b5f954d93372da5316"
+    "revision": "9b0f6119008b121ba92f766b1cf6916c"
   },
   {
     "url": "others/index.html",
-    "revision": "c156ad1e37576a9bc9472b38e7f100fb"
+    "revision": "a68ecfd5431c75c8d1390ea5de22a7b1"
   },
   {
     "url": "playerin/index.html",
-    "revision": "df660c777d6800b4e08a577d7f788376"
+    "revision": "531ef717519a5b8f01ac3dc9a28cda99"
   },
   {
     "url": "start.html",
-    "revision": "3bbcda25061ee2bf397a2b3d39d45179"
+    "revision": "f76e6aba8b51aa8a192c17954c26a8c5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
